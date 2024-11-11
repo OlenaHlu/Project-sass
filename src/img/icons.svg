@@ -1,7 +1,7 @@
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <!-- Alerts icons -->
-<symbol id="icon-Group-2232" viewBox="0 0 33 32">
+<symbol id="icon-logo" viewBox="0 0 33 32">
 <path fill="#1c1c24" style="fill: var(--color1, #1c1c24)" d="M2.666 9.767c0 0-0.494-9.195 1.504-9.655s5.445 2.84 5.445 2.84l-6.948 6.816z"></path>
 <path fill="#1c1c24" style="fill: var(--color1, #1c1c24)" d="M21.54 3.175c0 0 3.689-3.673 6.303-3.061 2.613 0.612 0.616 7.873 0.616 7.873l-6.919-4.811z"></path>
 <path fill="#f07f2e" style="fill: var(--color2, #f07f2e); stroke: var(--color1, #1c1c24)" stroke="#1c1c24" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="10" stroke-width="0.5565" d="M28.756 26.583c-2.769 2.188-4.621 2.903-7.768 3.755-2.101 0.568-7.391 0.54-12.321-1.444-3.454-1.511-4.807-3.154-5.459-4.049-0.567-0.779-1.722-2.507-1.788-4.397-0.096-2.752-0.015-5.436 1.248-10.677 1.263-5.242 6.949-6.816 6.949-6.816 6.212-1.467 11.37-0.314 13.161 0s6.875 3.534 7.313 9.987c0.067 0.965 1.148 4.397 1.252 7.28 0.032 0.884 0.057 2.061-0.383 3.269-0.508 1.393-1.641 2.622-2.202 3.092z"></path>
